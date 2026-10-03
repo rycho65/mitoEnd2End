@@ -6,9 +6,11 @@ data: current data folder, will be populated over time
     - raw tiff files
 
 masking: this folder is for masking pipeline
+    - python scripts that will create masks! or clean them...
 
 scripts: main folder
-MAIN RULE: attach a DATE to when you made it at the end... regardless of name! for example: ###_Oct-3.ipynb or ###_Oct-3.ipynb
+MAIN RULE: attach a DATE to when you made it at the end... regardless of name! for example: 
+###_Oct-3.ipynb or ###_Oct-3.py
 
 - jupyter (mostly explorative and viewing scripts)
 - python
